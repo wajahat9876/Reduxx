@@ -1,0 +1,28 @@
+.fourmain{
+    height: 380px;
+    width: 335px;
+    background: white;
+    margin: 10px;
+    
+    }
+    .fourheader{
+        font-size: 21px;
+        line-height: 27px;
+        font-weight: bold;
+        padding: 15px;
+    
+    }
+    .fourimg{
+        width: 140px;
+        height: 110px;
+        margin: 5px;
+    }
+    .fourbody{
+        padding-left: 15px;
+        display: flex;
+        flex-wrap: wrap;
+      }
+    .fourfooter{
+    padding: 15px;
+    }
+    

@@ -1,0 +1,17 @@
+.leftside_main{
+    width: 140px;
+    height: 100vh;
+    border-right: 1px solid wheat;
+    padding: 40px;
+    
+}
+.mobilename{
+   display: block;
+   width: 100px;
+    
+
+}
+.brand{
+   font-weight: bold;
+   margin: 10px; 
+}

@@ -1,0 +1,28 @@
+.login{
+    background-color: lightseagreen;
+    width: 100vw;
+    height: 100vh;
+    position: fixed;
+    
+}
+.formlogin{
+width:100vw;
+height: 100vh;
+
+}
+
+.lab{
+    margin-left: 40%;
+    line-height: 30px;
+    margin-top: 200px;
+    
+    
+    
+}
+.loginbtn{
+    margin-left: 45%;
+    height:20px;
+    width: 66px;
+    
+}
+

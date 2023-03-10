@@ -1,0 +1,21 @@
+.onemain{
+height: 380px;
+width: 335px;
+background: white;
+margin: 10px;
+
+}
+.oneheader{
+    font-size: 21px;
+    line-height: 27px;
+    font-weight: bold;
+    padding: 15px;
+
+}
+.onebody{
+    padding-left: 15px;
+  
+}
+.onefooter{
+padding: 15px;
+}

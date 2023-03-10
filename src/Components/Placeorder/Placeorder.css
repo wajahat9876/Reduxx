@@ -1,0 +1,44 @@
+.placeorderimg{
+    width: 200px;
+    height: 350px;
+    margin: 90px;
+    
+}
+.placeorderdescription{
+    margin-top: 70px;
+    line-height: 25px;
+    
+    
+}
+.placeorderbtn{
+    margin: 10px;
+ 
+    display: flex;
+    width: 150px;
+    height: 30px;
+    border-radius: 40px;
+    border: 0px;
+    justify-content: center;
+    align-items: center;
+    
+}
+.detail{ 
+    margin:10px;
+    font-size: 14px;
+}
+.addtocart{
+    margin-top: 60px;
+    margin-left: 20px;
+    background-color: #FFD814;
+    
+}
+.buynow{ margin-left: 20px;
+    background-color: #FFA41C;
+}
+.grid3{
+    margin-top: 90px;
+    margin-left: 100px;
+    border-radius: 5px;
+    border: 2px inset lightgrey;
+    
+}
